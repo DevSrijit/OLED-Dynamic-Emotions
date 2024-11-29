@@ -84,7 +84,7 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 ## Acknowledgments
 
-- **Srijit Ghosh**: Original author and creator of the RoboEyes library.
+- **Dennis Hoelscher**: Original author and creator of the FluxGarage_RoboEyes library.
 - **Adafruit**: For their excellent GFX and SSD1306 libraries that make this project possible.
 
 For any questions or support, please contact the author at [srijit.co](https://srijit.co).
